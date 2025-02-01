@@ -3,6 +3,7 @@ layout: default
 ---
 
 **A page dedicated to further learning my craft. A stepping stone to reaching the level I can be proud of.**
+
 _Just kidding. It'll never be enough._
 
 
