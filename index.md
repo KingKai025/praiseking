@@ -102,7 +102,7 @@ end
 
 ### Video
 
-videoplayback.mp4
+![Branching](videoplayback.mp4)
 
 ### Definition lists can be used with HTML syntax.
 
