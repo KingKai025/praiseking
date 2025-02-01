@@ -10,7 +10,7 @@ _Just kidding. It'll never be enough._
 
 # Video
 
-![](Gif2.mp4)
+![](https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4)
 
 
 
