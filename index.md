@@ -102,7 +102,7 @@ end
 
 ### Video
 
-![](https://github.com/user-attachments/assets/65a0a610-bf3a-4e41-8a94-f186cd39d1cb)
+![Video](https://github.com/KingKai025/praiseking/issues/1#issue-2825092736)
 
 ### Definition lists can be used with HTML syntax.
 
