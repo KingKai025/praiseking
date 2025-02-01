@@ -102,7 +102,10 @@ end
 
 ### Video
 
-https://github.com/user-attachments/assets/39643b86-a65e-4c06-b661-50aa44ef7de7
+<video autoplay src="https://github.com/KingKai025/praiseking/issues/2#issue-2825112290" width="500"> 
+    <source src="https://github.com/KingKai025/praiseking/issues/2#issue-2825112290.mp4">
+    <source src="https://github.com/KingKai025/praiseking/issues/2#issue-2825112290.WebM">
+</video>
 
 ### Definition lists can be used with HTML syntax.
 
