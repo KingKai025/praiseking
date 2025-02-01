@@ -102,7 +102,7 @@ end
 
 ### Video
 
-![Branching](videoplayback.mp4)
+![](https://github.com/user-attachments/assets/65a0a610-bf3a-4e41-8a94-f186cd39d1cb)
 
 ### Definition lists can be used with HTML syntax.
 
