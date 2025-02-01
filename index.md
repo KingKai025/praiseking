@@ -7,14 +7,18 @@ layout: default
 _Just kidding. It'll never be enough._
 
 
+
 # Video
 
 ![](Gif2.mp4)
 
 
+
 > A brief idea of what is to come.
 >
 > This is just a rough draft of what I want to do
+>
+> Thoughts?
 
 
 
@@ -22,4 +26,4 @@ _Just kidding. It'll never be enough._
 
 
 
-[Back to Webpage](./another-page.html).
+[Back to the CV Webpage](./another-page.html).
