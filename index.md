@@ -12,19 +12,17 @@ _Just kidding. It'll never be enough._
 
 # Video
 <video width="1000" controls>
-  <source autoplay loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4" type="video/mp4">
-  <source autoplay loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.webm" type="video/webm">
+  <source controls autoplay loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4" width="1000" type="video/mp4">
+  <source controls autoplay loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.webm" width="1000" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
 
 ## What do think?
 
-> It's a brief idea of what is to come.
->
-> A rough draft of what I want to do.
->
-> Thoughts? Additions? Give me something...
+`It's a brief idea of what is to come.
+A rough draft of what I want to do.
+Thoughts? Additions? Give me something...`
 
 
 
