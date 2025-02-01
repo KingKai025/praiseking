@@ -11,24 +11,24 @@ _Just kidding. It'll never be enough._
 
 
 # Video
-<video width="500" controls>
-  <source controls loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4" type="video/mp4">
-  <source controls loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.webm" type="video/webm">
+<video width="1000" controls>
+  <source autoplay loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4" type="video/mp4">
+  <source autoplay loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
 
+## What do think?
 
-> A brief idea of what is to come.
+> It's a brief idea of what is to come.
 >
-> This is just a rough draft of what I want to do
+> A rough draft of what I want to do.
 >
-> Thoughts?
+> Thoughts? Additions? Give me something...
 
 
 
 * * *
-
 
 
 [Back to the CV Webpage](./another-page.html).
