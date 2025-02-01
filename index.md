@@ -11,7 +11,7 @@ _Just kidding. It'll never be enough._
 
 
 # Video
-<video height="300" autoplay muted loop>
+<video height="300" autoplay loop>
   <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4" height="300" type="video/mp4">
   <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.webm" height="300" type="video/webm">
   Your browser does not support the video tag.
