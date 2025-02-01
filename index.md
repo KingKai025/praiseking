@@ -102,7 +102,7 @@ end
 
 ### Video
 
-<video width="320" height="240" autoplay>
+<video width="320" height="240" controls>
   <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif.mp4" type="video/mp4">
   <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif.webm" type="video/webm">
   Your browser does not support the video tag.
