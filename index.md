@@ -102,9 +102,10 @@ end
 
 ### Video
 
-<video autoplay src="https://github.com/KingKai025/praiseking/issues/2#issue-2825112290" width="500"> 
-    <source src="https://github.com/KingKai025/praiseking/issues/2#issue-2825112290.mp4">
-    <source src="https://github.com/KingKai025/praiseking/issues/2#issue-2825112290.WebM">
+<video width="320" height="240" autoplay>
+  <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif.mp4" type="video/mp4">
+  <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif.webm" type="video/webm">
+  Your browser does not support the video tag.
 </video>
 
 ### Definition lists can be used with HTML syntax.
