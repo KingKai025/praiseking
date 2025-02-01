@@ -12,8 +12,8 @@ _Just kidding. It'll never be enough._
 
 # Video
 <video width="500" controls>
-  <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4" type="video/mp4">
-  <source src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.webm" type="video/webm">
+  <source controls loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.mp4" type="video/mp4">
+  <source controls loop src="https://github.com/KingKai025/praiseking/raw/refs/heads/main/Gif2.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
